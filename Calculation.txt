@@ -1,1 +1,2 @@
-This is addition defination c=a+b
+This is addition definition c=a+b
+This is subtraction
