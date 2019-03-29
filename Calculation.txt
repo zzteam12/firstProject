@@ -7,3 +7,4 @@ This is remote master rebase 1
 This is remote master rebase 2
 this is local rebase 1
 this is local rebase 2
+this is remote merge 1
