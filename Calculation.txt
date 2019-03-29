@@ -4,3 +4,4 @@ This is multiple
 This is new3
 This is divide
 This is remote master rebase 1
+This is remote master rebase 2
